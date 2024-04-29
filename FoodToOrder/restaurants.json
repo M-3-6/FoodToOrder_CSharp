@@ -1,0 +1,174 @@
+[
+  {
+    "Id": 100,
+    "RName": "KFC",
+    "UserId": 5,
+    "Open": true,
+    "Dishes": [
+      {
+        "Id": 1000,
+        "DishName": "Fried Chicken",
+        "Available": true,
+        "Price": 175.0,
+        "RestaurantId": 100
+      },
+      {
+        "Id": 1001,
+        "DishName": "Chicken Burger",
+        "Available": true,
+        "Price": 250.0,
+        "RestaurantId": 100
+      },
+      {
+        "Id": 1002,
+        "DishName": "French Fries",
+        "Available": true,
+        "Price": 50.0,
+        "RestaurantId": 100
+      },
+      {
+        "Id": 1003,
+        "DishName": "Pepsi",
+        "Available": true,
+        "Price": 100.0,
+        "RestaurantId": 100
+      },
+      {
+        "Id": 1004,
+        "DishName": "Chicken Wings",
+        "Available": true,
+        "Price": 150.0,
+        "RestaurantId": 100
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "RName": "Dominos",
+    "UserId": 5,
+    "Open": true,
+    "Dishes": [
+      {
+        "Id": 1000,
+        "DishName": "Chicken Pepperoni Pizza",
+        "Available": true,
+        "Price": 800.0,
+        "RestaurantId": 200
+      },
+      {
+        "Id": 1001,
+        "DishName": "Chicken Margheritta Pizza",
+        "Available": true,
+        "Price": 650.0,
+        "RestaurantId": 200
+      },
+      {
+        "Id": 1002,
+        "DishName": "Chicken Sausage Pizza",
+        "Available": true,
+        "Price": 750.0,
+        "RestaurantId": 200
+      },
+      {
+        "Id": 1003,
+        "DishName": "Tandoor Paneer Pizza",
+        "Available": true,
+        "Price": 650.0,
+        "RestaurantId": 200
+      },
+      {
+        "Id": 1004,
+        "DishName": "Veg FarmHouse Pizza",
+        "Available": true,
+        "Price": 700.0,
+        "RestaurantId": 200
+      }
+    ]
+  },
+  {
+    "Id": 300,
+    "RName": "Truffles",
+    "UserId": 5,
+    "Open": true,
+    "Dishes": [
+      {
+        "Id": 1000,
+        "DishName": "Chicken Cheese Burger",
+        "Available": true,
+        "Price": 250.0,
+        "RestaurantId": 300
+      },
+      {
+        "Id": 1001,
+        "DishName": "Paneer Cheese Burger",
+        "Available": true,
+        "Price": 230.0,
+        "RestaurantId": 300
+      },
+      {
+        "Id": 1002,
+        "DishName": "Grilled Chicken Sandwich",
+        "Available": true,
+        "Price": 285.0,
+        "RestaurantId": 300
+      },
+      {
+        "Id": 1003,
+        "DishName": "Mango Smoothie",
+        "Available": true,
+        "Price": 105.0,
+        "RestaurantId": 300
+      },
+      {
+        "Id": 1004,
+        "DishName": "Chocolate Pastry",
+        "Available": true,
+        "Price": 150.0,
+        "RestaurantId": 300
+      }
+    ]
+  },
+  {
+    "Id": 400,
+    "RName": "Nagarjuna",
+    "UserId": 5,
+    "Open": true,
+    "Dishes": [
+      {
+        "Id": 1000,
+        "DishName": "Chicken Biriyani",
+        "Available": true,
+        "Price": 150.0,
+        "RestaurantId": 400
+      },
+      {
+        "Id": 1001,
+        "DishName": "Vegetable Biriyani",
+        "Available": true,
+        "Price": 130.0,
+        "RestaurantId": 400
+      },
+      {
+        "Id": 1002,
+        "DishName": "Vegetable Meals",
+        "Available": true,
+        "Price": 120.0,
+        "RestaurantId": 400
+      },
+      {
+        "Id": 1003,
+        "DishName": "Chapati",
+        "Available": true,
+        "Price": 20.0,
+        "RestaurantId": 400
+      },
+      {
+        "Id": 1004,
+        "DishName": "Paneer Butter Masala",
+        "Available": true,
+        "Price": 120.0,
+        "RestaurantId": 400
+      }
+    ]
+  }
+]

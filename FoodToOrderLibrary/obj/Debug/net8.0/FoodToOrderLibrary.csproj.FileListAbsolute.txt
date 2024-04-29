@@ -1,0 +1,12 @@
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.deps.json
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.pdb
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.AssemblyInfoInputs.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.AssemblyInfo.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\refint\FoodToOrderLibrary.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.pdb
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\ref\FoodToOrderLibrary.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.csproj.AssemblyReference.cache
