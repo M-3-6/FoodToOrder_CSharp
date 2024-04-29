@@ -5,14 +5,14 @@ FoodToOrder is a C-Sharp application which allows the customers to view the rest
 FoodToOrder system has two kinds of users: 
 1. Customer - There are multiple customrs
    Customer can:
-   1.1. Browse dishes from multiple restaurants
-   1.2. Add to cart from only one restaurant.
+   1. Browse dishes from multiple restaurants
+   2. Add to cart from only one restaurant.
 2. Admin - There is only 1 admin
    Admin should be able to:
-   1.1. Add Restaurants/Dishes
-   1.2. Update Restaurants/Dishes
-   1.3 View Restaurants/Dishes
-   1.4 Delete Restaurants/Dishes
+   1. Add Restaurants/Dishes
+   2. Update Restaurants/Dishes
+   3. View Restaurants/Dishes
+   4. Delete Restaurants/Dishes
 
 ## Functionalities:
 1. Interface
