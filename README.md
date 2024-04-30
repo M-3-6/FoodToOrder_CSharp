@@ -1,5 +1,5 @@
 # FoodToOrder_CSharp
-FoodToOrder is a C-Sharp application which allows the customers to view the restaurantswhich are Open and allows them to view and order from available dishes. The bill is displayed on ordering. There is an admin who can view and make changes to the restaurants and dishes.
+FoodToOrder is a C-Sharp application which allows the customers to view the restaurants which are Open and allows them to view and order from available dishes. The bill is displayed on ordering. There is an admin who can view and make changes to the restaurants and dishes.
 
 ## Users:
 FoodToOrder system has two kinds of users: 
